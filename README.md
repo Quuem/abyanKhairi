@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=25&duration=2400&pause=100&color=51A6D3&center=true&width=435&lines=Hello+There;Im+Abyan+Khairi+Risha" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=25&duration=2400&pause=100&color=51A6D3&center=true&width=435&lines=Hello+There;Im+Abyan+Khairi+Risha" />
 </h1>
 
   <p align="center" > Just Play The Game That You Have Started</p>
@@ -34,11 +34,6 @@
   <img alt="ular" src="https://raw.githubusercontent.com/abyanKhairi/abyanKhairi/output/github-contribution-grid-snake.svg" />
 </div>
 
-<div align="center">
-
 <p align="center">
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Rowdies&size=8&duration=2000&pause=300&color=800000&vCenter=true&width=430&lines=I+am+the+Bone+of+my+Sword;Steel+is+my+Body+and+Fire+is+my+Blood.;I+have+created+over+a+Thousand+Blades%2C;Unknown+to+Death%2C;Nor+known+to+Life.;Have+withstood+Pain+to+create+many+Weapons;Yet+those+Hands+will+never+hold+Anything.;So%2C+as+I+Pray--;Unlimited+Blade+Works)
-
+<img src="https://readme-typing-svg.demolab.com?font=Rowdies&size=8&duration=2000&pause=300&color=800000&center=true&vCenter=true&width=435&lines=I+am+the+Bone+of+my+Sword;Steel+is+my+Body+and+Fire+is+my+Blood.;I+have+created+over+a+Thousand+Blades%2C;Unknown+to+Death%2C;Nor+known+to+Life.;Have+withstood+Pain+to+create+many+Weapons;Yet+those+Hands+will+never+hold+Anything.;So%2C+as+I+Pray--;Unlimited+Blade+Works"/>
 </p>
-</div>
