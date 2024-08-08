@@ -5,7 +5,9 @@
 -->
 
 <div align="center">
-<img width="1000" src="https://i.imgur.com/ajduN5g.gif" />
+
+![banner][banner]
+
 </div>
 
 <br>
@@ -25,3 +27,5 @@
 ![Discord Presence](https://lanyard.kyrie25.me/api/657961428304527399)
 
 </div>
+
+[banner]: https://i.imgur.com/ajduN5g.gif
