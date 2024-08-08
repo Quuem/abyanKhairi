@@ -20,7 +20,7 @@
 
 <hr>
 
-<div align="center">
+<div align="right">
 
 ![Discord Presence](https://lanyard.kyrie25.me/api/657961428304527399)
 
