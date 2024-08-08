@@ -10,8 +10,13 @@
 
 <hr>
 
-<div align="center">
+<div style="display : flex;" align="center">
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Rowdies&size=10&duration=2000&pause=300&color=800000&vCenter=true&width=430&lines=I+am+the+Bone+of+my+Sword;Steel+is+my+Body+and+Fire+is+my+Blood.;I+have+created+over+a+Thousand+Blades%2C;Unknown+to+Death%2C;Nor+known+to+Life.;Have+withstood+Pain+to+create+many+Weapons;Yet+those+Hands+will+never+hold+Anything.;So%2C+as+I+Pray--;Unlimited+Blade+Works)
+
+<a align="right">
 <img src="https://lanyard.kyrie25.me/api/657961428304527399">
+</a>
 </div>
 
 <hr>
@@ -21,6 +26,7 @@
 <p align="center"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/><br><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </p>
+
 </div>
 
 <hr>
