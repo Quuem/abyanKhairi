@@ -38,8 +38,6 @@ jobs:
 
       - name: Commit and push new files
         run: |
-          git config user.name "abyanKhairi"
-          git config user.email "khairirisha4.com"
           git add dist/
           git commit -m "Update snake animations"
           git push origin output
