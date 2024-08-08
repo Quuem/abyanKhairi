@@ -5,7 +5,7 @@
 -->
 
 <div align="center">
-<a href="https://imgur.com/ajduN5g"><img width="1000" src="https://i.imgur.com/ajduN5g.gif" /></a>
+<img width="1000" src="https://i.imgur.com/ajduN5g.gif" />
 </div>
 
 <br>
