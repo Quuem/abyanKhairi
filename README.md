@@ -1,5 +1,1 @@
-[![zkasir][banner]]
-
-## about
-
-[banner]: assets/img/back3.gif
+<p align="center"><img src="abyanKhairi/assets/img/back1.gif" alt="banner"></p>
