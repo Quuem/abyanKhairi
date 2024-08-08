@@ -2,7 +2,7 @@
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
 
-<p align="center"><img width="500"  src="assets/img/back3.gif" alt="banner"><p>
+<p align="center"><img width="1000"  src="assets/img/back3.gif" alt="banner"><p>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=30&duration=3000&pause=10&color=598D57&center=true&vCenter=true&width=435&lines=Hello+There;Im+Abyan+Khairi+Risha)
 
