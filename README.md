@@ -7,17 +7,6 @@
 <hr>
 
 <div align="center">
-
-<a href="https://open.spotify.com/user/nf4uyqzhk4c4hv6xlxtc9okri">
-<img alt="Spotify Played" src="https://spotify-recently-played-readme.vercel.app/api?user=nf4uyqzhk4c4hv6xlxtc9okri&unique=true&count=3">
-</a>
-<img alt="discord" src="https://lanyard.kyrie25.me/api/657961428304527399">
-
-</div>
-
-<hr>
-
-<div align="center">
   <h2> My Knowledge </h2>
     <p align="center">
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
@@ -25,6 +14,16 @@
       <br>
       <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
     </p>
+</div>
+<hr>
+
+<div align="center">
+
+  <a href="https://open.spotify.com/user/nf4uyqzhk4c4hv6xlxtc9okri">
+  <img alt="Spotify Played" src="https://spotify-recently-played-readme.vercel.app/api?user=nf4uyqzhk4c4hv6xlxtc9okri&unique=true&count=3">
+  </a>
+  <img alt="discord" src="https://lanyard.kyrie25.me/api/657961428304527399">
+
 </div>
 
 <hr>
