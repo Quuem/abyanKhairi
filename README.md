@@ -19,9 +19,7 @@
 
 <div align="center">
 
-  <a href="https://open.spotify.com/user/nf4uyqzhk4c4hv6xlxtc9okri">
   <img alt="Spotify Played" src="https://spotify-recently-played-readme.vercel.app/api?user=nf4uyqzhk4c4hv6xlxtc9okri&unique=true&count=3">
-  </a>
   <img alt="discord" src="https://lanyard.kyrie25.me/api/657961428304527399">
 
 </div>
