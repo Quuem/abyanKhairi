@@ -35,7 +35,7 @@
 <div align="center">
   <h2> My Contributions </h2>
 <!--     <img alt="ular" src="https://raw.githubusercontent.com/abyanKhairi/abyanKhairi/output/github-contribution-grid-snake.svg" /> -->
-    <img alt="ular" src="https://raw.githubusercontent.com/abyanKhairi/abyanKhairi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+<!--     <img alt="ular" src="https://raw.githubusercontent.com/abyanKhairi/abyanKhairi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" /> -->
 </div>
 
 <p align="center">
